@@ -11,7 +11,7 @@ Template for the Neurotechnologies lab. It aims to give the student the resource
 
 - A CLI or GUI with support for Git. For example, i use [git-bash](https://gitforwindows.org/) as a CLI, and you can use [Github Desktop](https://desktop.github.com/) for GUI
 - [Unity Editor](https://unity.com/download) version 2022.3.17f1 or later
-- [Unicorn Suite Hybrid Black](https://euvtro.sharepoint.com/:u:/s/Introducereinneurotehnologii/EWzoUaj5M0VFlK1hu9HFJA8BVQedBUdeT-7SEqQqrkMjGQ?e=EGtcgs)
+- [Unicorn Suite Hybrid Black](https://drive.google.com/drive/folders/1HQdC3Z4UvMdq4kI41WmGn5_hrjTmk9xT?usp=sharing)
 
 ## Installation
 
@@ -29,7 +29,7 @@ To get this Unity project template up and running, you need to follow these step
 
 4. Now your project should be openning, give it a minute or two.
 
-- ### If you do not have exactly version 2022.3.17f1 of Unity, you will get a warning saying your version does not match. Just make sure you have a version newer than 2022.3.17f1 and you can proceed with opening the project while ignoring the warning
+- ### Even if you do not have exactly version 2022.3.17f1 of Unity, just make sure you have a version newer than 2022.3.17f1 and you can proceed with opening the project while ignoring the warning
 
 ![Warning Unity Hub Project](https://github.com/Relu12345/BCI-Lab-Project/assets/94746838/86505df6-cdc7-406a-a5bd-d760e66146d5)
 
